@@ -15,7 +15,7 @@ Make sure you have the following installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/vinaymanikanta-chitturi/vehicle_service_system.git
+git clone https://github.com/veerababu-yarragopula/vehicle_service_system.git
 cd vehicle_service_system
 ```
 
